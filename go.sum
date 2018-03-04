@@ -1,0 +1,11 @@
+github.com/faiface/beep v0.0.0-20180224154819-cc52b09e4638 h1:jcH0UmUKnfI1udjsg3qUhk9XprgBNnfnE2oGhjjz1BE=
+github.com/faiface/beep v0.0.0-20180224154819-cc52b09e4638/go.mod h1:A22Xnws4HqzY9DZEtQCbYRbS1858XfgH6SCFUeRiXDI=
+github.com/gopherjs/gopherjs v0.0.0-20180227192048-df18d38287ab/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/hajimehoshi/go-mp3 v0.1.0 h1:nYqjO6rub69tJFI1JJSItb5xFi1z0jBED3INDwyKKlc=
+github.com/hajimehoshi/go-mp3 v0.1.0/go.mod h1:SUuVIxBoRGgFS+RYeGIJoiD2wUWy7EajN5tmFlh2ncc=
+github.com/hajimehoshi/oto v0.0.0-20180302191651-91b57df429ab h1:SSqni1rClRc4yWVbhy0Na8ys+MrIYktod4zMQ0TF250=
+github.com/hajimehoshi/oto v0.0.0-20180302191651-91b57df429ab/go.mod h1:Co7jIdNa4+UYZF0whfBysf8qY6o7oV8dFC1Ld//5HmY=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
+github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
